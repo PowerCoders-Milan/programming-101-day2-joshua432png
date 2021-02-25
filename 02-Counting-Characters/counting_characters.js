@@ -9,8 +9,8 @@ print the lenght of string
 */
 
 //insert your code below
-var string;
+/*var string;
 
 
 string = window.prompt('abc');
-window.alert(string.length);
+window.alert(string.length);*/

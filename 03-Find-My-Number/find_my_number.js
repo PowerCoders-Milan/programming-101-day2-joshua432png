@@ -10,7 +10,7 @@ If it is wrong the user guess again until it is correct
 */
 
 //insert your code below
-var integer, number;
+/*var integer, number;
 
 function mathRandomInt(a, b) {
   if (a > b) {
@@ -38,4 +38,4 @@ while (number != integer) {
 }
 window.alert('You Win');
 
-false && false;
+false && false;*/

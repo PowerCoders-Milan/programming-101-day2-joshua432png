@@ -9,8 +9,8 @@ print the text greeting and greeting
 */ 
 
 //insert your code below
-var name2;
+/*var name2;
 
 
 name2 = window.prompt('What is your name please ?');
-window.alert('welcome ' + String(name2));
+window.alert('welcome ' + String(name2));*/
